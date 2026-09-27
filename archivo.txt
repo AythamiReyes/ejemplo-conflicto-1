@@ -1,3 +1,8 @@
 Linea1
+<<<<<<< HEAD
 Linea2 conflicto
 Linea3
+=======
+Linea2
+Linea3
+>>>>>>> remotes/origin/main
